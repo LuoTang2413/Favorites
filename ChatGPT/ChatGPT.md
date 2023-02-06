@@ -2,6 +2,8 @@
 
 ChatGPT是由人工智能研究实验室OpenAI在2022年11月30日发布的全新聊天机器人模型，一款人工智能技术驱动的自然语言处理工具。
 
+OPENAI-GPT：http://www.chchat.top/
+
 股票
 
 886031：ChatGPT概念股
